@@ -1,0 +1,39 @@
+:root{
+    --color1: rgb(255, 255, 255);
+    --color2: rgb(255, 255, 255); 
+    --color3: rgb(210, 156, 235);
+    --main-font: 'Prompt', sans-serif;
+    --size-main-font: 24px;
+    --color-main-font: rgb(0, 0, 0);
+    --color2-font: rgb(0, 0, 0);
+    
+}
+
+.bg-color1{
+    background-color: var(--color1);
+}
+
+.bg-color2{
+    background-color: var(--color2);
+}
+
+.bg-color3{
+    background-color: var(--color3);
+}
+
+.main-font{
+    font-family: var(--main-font);
+}
+
+.size-main-font{
+    font-size: var(--size-main-font);
+}
+
+.color-main-font{
+    color: var(--color-main-font);
+}
+
+.color2-font{
+    color: var(--color2-font);
+}
+
